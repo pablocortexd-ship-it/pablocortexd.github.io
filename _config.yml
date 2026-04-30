@@ -1,0 +1,10 @@
+title: "Hecha la ley, hecha la trampa"
+description: "A blog dedicated to discussing various topics and sharing insights."
+
+# Jekyll Settings
+
+# Settings related to the Jekyll environment
+
+# Build settings
+plugins:
+  - jekyll-feed
